@@ -23,5 +23,4 @@ def countdown_with_sleep(i)
     sleep 1
     i -= 1
   end
->>>>>>> 3fcea96aca759d27582dcd59aa56c66584fc693a
 end
